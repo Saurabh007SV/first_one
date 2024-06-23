@@ -139,7 +139,7 @@ elif choice1 == "Animation Plots":
              animation_frame=ani_col, animation_group=anig_col, range_y=[0,4000000000])
         st.write(fig)
     
-# Run the app
+
     
     
     
